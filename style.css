@@ -1,0 +1,17 @@
+/* nav bar style  */
+.emihle {
+    position: absolute;
+    margin-top: -137px;
+    width: 275px;
+    height: 275px;
+} 
+.navbar-collapse{
+    display: flex;
+    justify-content: flex-end;
+}
+/* body style  */
+.cebisa{
+    background-image: url(images/Emihle4.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
