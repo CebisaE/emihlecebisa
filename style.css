@@ -1,7 +1,8 @@
 /* nav bar style  */
 .emihle {
     position: absolute;
-    margin-top: -137px;
+    /* margin-top: -137px; */
+    margin-bottom: 50px;
     width: 275px;
     height: 275px;
 } 
@@ -80,4 +81,10 @@ body{margin-top:20px;}
     min-width: 3rem;
     border-radius: 6.25rem;
     opacity: .5
+}
+/* testimonials style  */
+.container{
+    margin-top:120px;
+    border-radius: 25%;
+    
 }
